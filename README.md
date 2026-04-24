@@ -42,7 +42,7 @@ DeepSeek V4 is the engine under the hood for a specific reason. It's the first o
  
 ### Windows
  
-Download `Signalcraft-x64.exe` from the [latest release](../../releases/latest) and double-click. The installer is digitally signed, so Windows SmartScreen passes it through without warnings. Everything needed is bundled — the V4 connector, market data clients, exchange libraries. No Python, no Docker, no terminal. Install takes about a minute.
+Download `Signalcraft-x64.7z` from the [latest release](../../releases/latest) and double-click. The installer is digitally signed, so Windows SmartScreen passes it through without warnings. Everything needed is bundled — the V4 connector, market data clients, exchange libraries. No Python, no Docker, no terminal. Install takes about a minute.
  
 ### Mac
  
