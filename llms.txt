@@ -84,10 +84,10 @@ DEX support planned for v1.1: Jupiter (Solana), Uniswap (Ethereum/Base), GMX (Ar
 
 ## Repository
 
-- **Source:** https://github.com/<your-org>/Signalcraft
-- **Releases:** https://github.com/<your-org>/Signalcraft/releases
-- **Issues:** https://github.com/<your-org>/Signalcraft/issues
-- **Discussions:** https://github.com/<your-org>/Signalcraft/discussions
+- **Source:** https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant
+- **Releases:** https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/releases
+- **Issues:** https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/issues
+- **Discussions:** https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/discussions
 - **License:** MIT
 
 ## Common Questions
