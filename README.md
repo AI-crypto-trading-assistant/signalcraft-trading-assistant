@@ -1,12 +1,12 @@
 # Signalcraft — The AI Crypto Trading Assistant Powered by DeepSeek V4
 
-[![Latest Release](https://img.shields.io/github/v/release/AI-crypto-trading-assistant/Signalcraft?style=flat-square&label=Download)](https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/AI-crypto-trading-assistant/signalcraft-trading-assistant?style=flat-square&label=Download)](https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/releases/latest)
 ![Build](https://img.shields.io/badge/Build-passing-brightgreen?style=flat-square)
-[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square)]([../../releases/latest](https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/releases/latest))
-[![macOS](https://img.shields.io/badge/macOS-12.0+-blue?style=flat-square)]([../../releases/latest](https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/releases/latest))
+[![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?style=flat-square)](https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/releases/latest)
+[![macOS](https://img.shields.io/badge/macOS-12.0+-blue?style=flat-square)](https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/releases/latest)
 [![DeepSeek V4](https://img.shields.io/badge/Powered%20by-DeepSeek%20V4-purple?style=flat-square)](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)
 [![MIT License](https://img.shields.io/github/license/AI-crypto-trading-assistant/signalcraft-trading-assistant?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/AI-crypto-trading-assistant/Signalcraft?style=flat-square)](https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/stargazers)
+[![Stars](https://img.shields.io/github/stars/AI-crypto-trading-assistant/signalcraft-trading-assistant?style=flat-square)](https://github.com/AI-crypto-trading-assistant/signalcraft-trading-assistant/stargazers)
 
 **Signalcraft is a free, open-source desktop app that turns DeepSeek V4 into your personal crypto trading copilot.** Connect a watchlist, plug in your exchange API keys, and Signalcraft monitors the market 24/7 — reading price action, on-chain events, news, and whale moves in real time, then using V4's 1M-context reasoning to explain what's happening and what setups are forming. Run it as an alerts-only research assistant, or enable execution mode with hard safety limits and let it place orders on Binance, Bybit, Hyperliquid, and Coinbase with your confirmation. No subscriptions, no telemetry, no bundled fees — one-click installer for Windows and Mac, all dependencies inside, double-click and it works.
  
