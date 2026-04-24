@@ -1,0 +1,1 @@
+# signalcraft-trading-assistant
